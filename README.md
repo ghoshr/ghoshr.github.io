@@ -1,1 +1,3 @@
-# ghoshr.github.io
+# ghoshr.github.io 
+
+update reademe
